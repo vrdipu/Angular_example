@@ -15,7 +15,10 @@ angular.module('sortApp', [])
     
     { name: 'Philly1', fish: 'Tuna1', tastiness: 41 },
     { name: 'Tiger1', fish: 'Eel1', tastiness: 71 },
-    { name: 'Rainbow1', fish: 'Variety1', tastiness: 61 }
+    { name: 'Rainbow1', fish: 'Variety1', tastiness: 63 },
+    { name: 'Philly3', fish: 'Tuna1', tastiness: 43 },
+    { name: 'Tiger3', fish: 'Eel1', tastiness: 71 },
+    { name: 'Rainbow3', fish: 'Variety1', tastiness: 63 }
   ];
   
 });
