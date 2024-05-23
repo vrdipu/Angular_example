@@ -8,8 +8,8 @@ angular.module('sortApp', [])
   
   // create the list of sushi rolls 
   $scope.sushi = [
-    { name: 'Cali Roll', fish: 'Akil', tastiness: 2 },
-    { name: 'Philly', fish: 'Danish', tastiness: 4 },
+    { name: 'Sandeep', fish: 'Akil', tastiness: 2 },
+    { name: 'Dipu', fish: 'Danish', tastiness: 4 },
     { name: 'Tiger', fish: 'Dileep', tastiness: 7 },
     { name: 'Rainbow', fish: 'Vimal', tastiness: 6 },
     
